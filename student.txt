@@ -1,0 +1,2 @@
+Roll	Name	S1	S2	S3	S4	S5	Min	Max	Total	Per	  Grade	Result
+1		Twinkle	89	76	68	34	76	34	89	343		68.60	C	ATKT
